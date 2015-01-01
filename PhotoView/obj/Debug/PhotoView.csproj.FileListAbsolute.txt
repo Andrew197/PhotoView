@@ -1,0 +1,9 @@
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\bin\Debug\PhotoView.exe.config
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\bin\Debug\PhotoView.exe
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\bin\Debug\PhotoView.pdb
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.Form1.resources
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.Properties.Resources.resources
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.csproj.GenerateResource.Cache
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.exe
+c:\users\peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.pdb
+C:\Users\Peetseys\documents\visual studio 2013\Projects\PhotoView\PhotoView\obj\Debug\PhotoView.csprojResolveAssemblyReference.cache
